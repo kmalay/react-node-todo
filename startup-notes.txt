@@ -1,0 +1,10 @@
+# To start the auth app:
+#
+# In the server dir...
+# 1. Make sure Postgres is running on Mac
+# 2. npm run dev
+# http://localhost:3090
+#
+# In the client dir...
+# 1. npm run start
+# http://localhost:8080

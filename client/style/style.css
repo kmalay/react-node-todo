@@ -1,0 +1,16 @@
+.error {
+	color: red;
+}
+
+form {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+input.form-control {
+	margin-right: 5px;
+}
+
+ul.list-group {
+	margin-bottom: 10px;
+}
